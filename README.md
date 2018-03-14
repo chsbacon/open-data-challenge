@@ -6,7 +6,7 @@ _submission content and which prizes we're going for_
 ## Usage
 _instructions for running model_
 
-## Dependecies
+## Dependencies
 _names and licenses_
 
 ## Contributors
