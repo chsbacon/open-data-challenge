@@ -4,3 +4,4 @@
 * Week of the year
 * Event calendars
 * ~~Web connected CCTV~~
+* Satellite imagery
