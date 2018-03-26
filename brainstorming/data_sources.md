@@ -9,7 +9,7 @@
 * ~~Web connected CCTV~~
 * Satellite imagery
 * [Parking tickets](http://opendata.charlottesville.org/datasets/parking-tickets)
-  * Use [this](https://pypi.python.org/pypi/geopy) library
+  * Use [GeoPy](https://pypi.python.org/pypi/geopy)
 * [Bus data](http://opendata.charlottesville.org/datasets/transit/data)
 * Ride sharing
   * [Uber](https://movement.uber.com/cities?lang=en-US)
