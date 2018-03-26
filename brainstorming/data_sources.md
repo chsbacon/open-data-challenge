@@ -1,5 +1,5 @@
 * Social Media
-  * [Twitter](https://marcobonzanini.com/2015/06/16/mining-twitter-data-with-python-and-js-part-7-geolocation-and-interactive-maps/)
+  * ~~[Twitter](https://marcobonzanini.com/2015/06/16/mining-twitter-data-with-python-and-js-part-7-geolocation-and-interactive-maps/)~~
   * [Finstaspam](https://medium.com/@bruceoh/data-mining-instagram-scraper-1-d557e7ae4264)
   
 * Day of the week
