@@ -1,6 +1,8 @@
 # Charlottesville Open Data Challenge
 
 ## Catalog
+Entry for Best Predictive Model prize.
+
 ```
 .
 ├── data
@@ -23,16 +25,16 @@
 │       │   ├── Top manufacturers by usage.csv
 │       │   ├── Top operating systems by usage.csv
 │       │   └── Usage over time.csv
-│       ├── 07-01
-│       │   ├── Clients per day.csv
-│       │   ├── Number of sessions over time.csv
-│       │   ├── Top application categories.csv
-│       │   ├── Top applications by usage.csv
-│       │   ├── Top device models by usage.csv
-│       │   ├── Top devices.csv
-│       │   ├── Top manufacturers by usage.csv
-│       │   ├── Top operating systems by usage.csv
-|       └── └── Usage over time.csv
+│       └── 07-01
+│           ├── Clients per day.csv
+│           ├── Number of sessions over time.csv
+│           ├── Top application categories.csv
+│           ├── Top applications by usage.csv
+│           ├── Top device models by usage.csv
+│           ├── Top devices.csv
+│           ├── Top manufacturers by usage.csv
+│           ├── Top operating systems by usage.csv
+│           └── Usage over time.csv
 ├── LICENSE
 ├── README.md
 └── src
@@ -40,10 +42,9 @@
     ├── model.ipynb
     └── ticket_processing.ipynb
 ```
-predictive model
 ## Usage
 ```bash
-jupyter nbconvert --stdout src/model.ipynb | python3
+jupyter nbconvert --to python --stdout src/model.ipynb | python3
 ```
 
 ## Dependencies
