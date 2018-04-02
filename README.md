@@ -20,11 +20,17 @@ jupyter nbconvert --execute --to markdown --stdout models/model_runner.ipynb
 ```
 
 ## Dependencies
-| package name | version |                                       url                                              |
-| ------------ | ------- | -------------------------------------------------------------------------------------- |
-| keras        | 2.1.5   | https://repo.continuum.io/pkgs/main/linux-64/keras-2.1.5-py36_0.tar.bz2                |
-| pandas       | 0.22.0  | https://repo.continuum.io/pkgs/main/linux-64/pandas-0.22.0-py36hf484d3e_0.tar.bz2      |
-| jupyter      | 4.4.0   | https://repo.continuum.io/pkgs/main/linux-64/jupyter_core-4.4.0-py36h7c827e3_0.tar.bz2 |
+#### libraries
+|     name     | version |    license   |
+| ------------ | ------- | ------------ |
+| keras        | 2.1.5   |     MIT      |
+| pandas       | 0.22.0  | BSD 3-Clause |
+| jupyter      | 4.4.0   | BSD 3-Clause |
+#### data
+| dataset      | source  | license      |
+| ------------ | ------- | ------------ |
+| weather data |         |              |
+| transit data |         |              |
 
 ## Contributors
 * James Nachbar
