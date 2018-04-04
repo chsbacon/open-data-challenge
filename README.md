@@ -3,16 +3,25 @@
 ## Catalog
 Entry for Best Predictive Model prize.
 
-```
+```.
+├── data
+│   ├── weather
+│   │   └── precip_temp.csv
+│   └── wifi # given data
 ├── LICENSE
 ├── models
 │   ├── model.h5
 │   └── model_runner.ipynb
+├── predictions
+│   ├── Clients per day.csv
+# BEGIN PREDICTIVE MODEL SUBMISSION
+│   ├── Number of sessions over time.csv
+│   ├── prediction_generator.ipynb
+│   └── Usage over time.csv
+# END PREDICTIVE MODEL SUBMISSION
 ├── README.md
 └── src
-    ├── bus_processing.ipynb
-    ├── model_trainer.ipynb
-    └── ticket_processing.ipynb
+    └── model_trainer.ipynb
 ```
 ## Usage
 ```bash
