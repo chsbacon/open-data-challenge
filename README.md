@@ -30,7 +30,6 @@ jupyter nbconvert --execute --to markdown --stdout models/model_runner.ipynb
 | dataset      | source  | license      |
 | ------------ | ------- | ------------ |
 | weather data |         |              |
-| transit data |         |              |
 
 ## Contributors
 * James Nachbar
