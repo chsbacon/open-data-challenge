@@ -38,7 +38,7 @@ jupyter nbconvert --execute --to markdown --stdout models/model_runner.ipynb
 #### data
 | dataset      | source  | license      |
 | ------------ | ------- | ------------ |
-| weather data |         |              |
+| weather data | https://www.ncdc.noaa.gov | Public Domain |
 
 ## Contributors
 * James Nachbar
