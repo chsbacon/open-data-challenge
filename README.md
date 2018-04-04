@@ -27,7 +27,7 @@ Entry for Best Predictive Model prize.
 1. Run `jupyter notebook`
 2. Navigate to `src/model_runner.ipynb`
 3. Edit the date in the fourth cell
-4. Run the whole notebook
+4. Run the whole notebook by clicking `Kernel > Restart & Run all`
 
 ## Dependencies
 #### libraries
